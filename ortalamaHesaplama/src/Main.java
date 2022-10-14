@@ -1,4 +1,3 @@
-import java.awt.desktop.ScreenSleepEvent;
 import java.util.Scanner;
 
 public class Main {
@@ -23,7 +22,7 @@ public class Main {
         int toplam=(mat+fizik+muzik+tarih+turkce+kimya);
         System.out.println("Sistem durumunuzu değerlendiriyor....");
         System.out.println("-----------------------------------------");
-        double sonuc=toplam/6;
+        int sonuc=toplam/6;
         boolean low = sonuc <= 60;
         System.out.println("Ortalamanız : "+sonuc);
         System.out.println("-----------------------------------------");
