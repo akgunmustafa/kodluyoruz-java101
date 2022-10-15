@@ -6,3 +6,7 @@
 ## KdvHesaplama
 - 1000 TL ye kadar %18 KDV
 - 1000 TL üstü gelirler %8 KDV :)
+
+## Hipotenüs-Alan-Hesaplama
+- Dik kenarları kullanıcıdan alınan, üçgenin hipotenüsünün hesaplanması.
+- Yalnızca 3 kenarı bilinen üçgenin alanının hesaplanması.
