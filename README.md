@@ -12,5 +12,5 @@
 - Yalnızca 3 kenarı bilinen üçgenin alanının hesaplanması.
 
 ## Dairenin-AlanÇevre-Hesaplama
-- Dik kenarları kullanıcıdan alınan, üçgenin hipotenüsünün hesaplanması.
-- Yalnızca 3 kenarı bilinen üçgenin alanının hesaplanması.
+- Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan program.
+- Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan program.
