@@ -10,3 +10,7 @@
 ## Hipotenüs-Alan-Hesaplama
 - Dik kenarları kullanıcıdan alınan, üçgenin hipotenüsünün hesaplanması.
 - Yalnızca 3 kenarı bilinen üçgenin alanının hesaplanması.
+
+## Dairenin-AlanÇevre-Hesaplama
+- Dik kenarları kullanıcıdan alınan, üçgenin hipotenüsünün hesaplanması.
+- Yalnızca 3 kenarı bilinen üçgenin alanının hesaplanması.
