@@ -14,3 +14,7 @@
 ## Dairenin-AlanÇevre-Hesaplama
 - Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan program.
 - Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan program.
+
+## Vücut-Kitle-İndeksi-Hesaplama
+- Kullanıcıdan boy ve kilo değerlerini alıp, formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayoruz.
+- Ondalık değer girerken nokta(.) kullanın. Virgül(,) kullnımıda hata verir.
