@@ -18,3 +18,6 @@
 ## Vücut-Kitle-İndeksi-Hesaplama
 - Kullanıcıdan boy ve kilo değerlerini alıp, formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayoruz.
 - Ondalık değer girerken nokta(.) kullanın. Virgül(,) kullnımıda hata verir.
+
+## Manav-Ürün-Hesaplama
+- Kullanıcının manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program.
