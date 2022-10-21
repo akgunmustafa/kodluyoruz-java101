@@ -21,3 +21,6 @@
 
 ## Manav-Ürün-Hesaplama
 - Kullanıcının manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program.
+
+## Hesap-Makinesi
+- Kullanıcının girdiği iki sayı ile 4 işlem yapan program. Switch-case kullanıldı.
