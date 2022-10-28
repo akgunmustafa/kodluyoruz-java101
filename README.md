@@ -24,3 +24,6 @@
 
 ## Hesap-Makinesi
 - Kullanıcının girdiği iki sayı ile 4 işlem yapan program. Switch-case kullanıldı.
+
+## Kullanıcı-Giriş
+- Kullanıcının girdiği, kullanıcı adı ve şifresini kontrol ediyoruz. Kullanıcı adı yanlışsa giriş yapamıyor ama şifresi yanlışsa yeni şifre oluşturabiliyor. Yeni girdiği şifre eski şifresi ile aynıysa uyarı verip yeniden girmesini istiyoruz.
