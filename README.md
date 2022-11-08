@@ -27,3 +27,6 @@
 
 ## Kullanıcı-Giriş
 - Kullanıcının girdiği, kullanıcı adı ve şifresini kontrol ediyoruz. Kullanıcı adı yanlışsa giriş yapamıyor ama şifresi yanlışsa yeni şifre oluşturabiliyor. Yeni girdiği şifre eski şifresi ile aynıysa uyarı verip yeniden girmesini istiyoruz.
+
+## Koşullu-İfadelerle-NotOrtalaması
+- Kullanıcının girdiği ders notlarının 0 ile 100 arasında olup olmadığı kontrol ediliyor. Sonrasında ortalaması 55 ten yukarı ise geçiyor. Değilse kalıyor.
