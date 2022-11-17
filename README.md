@@ -30,3 +30,6 @@
 
 ## Koşullu-İfadelerle-NotOrtalaması
 - Kullanıcının girdiği ders notlarının 0 ile 100 arasında olup olmadığı kontrol ediliyor. Sonrasında ortalaması 55 ten yukarı ise geçiyor. Değilse kalıyor.
+
+## Etkinlik-Önerici
+- Kullanıcının girdiği hava sıcaklığına göre farklı etkinlikler öneren program.
