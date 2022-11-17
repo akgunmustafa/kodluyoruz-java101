@@ -33,3 +33,6 @@
 
 ## Etkinlik-Önerici
 - Kullanıcının girdiği hava sıcaklığına göre farklı etkinlikler öneren program.
+
+## Küçkten-Büyüğe Sıralama
+- Kullanıcının girdiği 3 sayıyı küçükten büyüğe sıralayan program.
