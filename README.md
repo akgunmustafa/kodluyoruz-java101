@@ -36,3 +36,6 @@
 
 ## Küçkten-Büyüğe Sıralama
 - Kullanıcının girdiği 3 sayıyı küçükten büyüğe sıralayan program.
+
+## Burç-Bulma
+- Kullanıcının girdiği gün ve ay bilgilerine göre Burç bulan program.
