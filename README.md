@@ -39,3 +39,7 @@
 
 ## Burç-Bulma
 - Kullanıcının girdiği gün ve ay bilgilerine göre Burç bulan program.
+
+
+## Uçak-Bileti-Ücreti-Hesaplama
+- Kullanıcının girdiği yaş-mesafe-gidiş/dönüş bilgilerine göre fiyat hesaplaması yapan program.
