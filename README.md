@@ -43,3 +43,6 @@
 
 ## Uçak-Bileti-Ücreti-Hesaplama
 - Kullanıcının girdiği yaş-mesafe-gidiş/dönüş bilgilerine göre fiyat hesaplaması yapan program.
+
+## Çin-Zodyağı-Burc-Bulma
+- Kullanıcının girdiği doğum yılı bilgisine göre Çin Zodyağı Burcunu bulan program.
