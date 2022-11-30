@@ -46,3 +46,7 @@
 
 ## Çin-Zodyağı-Burc-Bulma
 - Kullanıcının girdiği doğum yılı bilgisine göre Çin Zodyağı Burcunu bulan program.
+
+
+## Artık-Yıl-Bulma
+- Kullanıcının girdiği yılın artık yıl olup olmadığını bulan program.
