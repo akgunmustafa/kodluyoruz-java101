@@ -53,3 +53,6 @@
 
 ## Döngü-Kullanarak-Sayı-Ortalaması-Hesaplama 
 - Java döngüleri ile 0'dan, girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan program.
+
+## Döngü-Kullanarak-4'e-Bölünenenleri-Hesaplama 
+- Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program.
