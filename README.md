@@ -50,3 +50,6 @@
 
 ## Artık-Yıl-Bulma
 - Kullanıcının girdiği yılın artık yıl olup olmadığını bulan program.
+
+## Döngü-Kullanarak-Sayı-Ortalaması-Hesaplama 
+- Java döngüleri ile 0'dan, girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan program.
