@@ -56,3 +56,6 @@
 
 ## Döngü-Kullanarak-4'e-Bölünenenleri-Hesaplama 
 - Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program.
+
+## Exponential-numbers
+- Kullanıcının girdiği sayıya kadar 4 ve 5 in kuvvetlerini bulan program.
