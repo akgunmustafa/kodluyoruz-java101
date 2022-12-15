@@ -59,3 +59,6 @@
 
 ## Exponential-numbers
 - Kullanıcının girdiği sayıya kadar 4 ve 5 in kuvvetlerini bulan program.
+
+## Kombinasyon-Formul-Döngü
+- Kullanıcının girdiği iki sayının faktöriyel ve kombinasyon hesaplamalarını yapan program.
