@@ -62,3 +62,6 @@
 
 ## Kombinasyon-Formul-Döngü
 - Kullanıcının girdiği iki sayının faktöriyel ve kombinasyon hesaplamalarını yapan program.
+
+## Üslü-Sayılar-For Döngüsü
+- Kullanıcının girdiği 2 sayı ve üs değeri ile üslü sayı hesaplayan program.
