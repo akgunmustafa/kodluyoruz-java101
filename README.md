@@ -65,3 +65,6 @@
 
 ## Üslü-Sayılar-For Döngüsü
 - Kullanıcının girdiği 2 sayı ve üs değeri ile üslü sayı hesaplayan program.
+
+## Armstron-Sayi
+- Kullanıcının girdiği tam sayının basamak sayılarını toplayan program.
