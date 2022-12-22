@@ -68,3 +68,6 @@
 
 ## Armstron-Sayi
 - Kullanıcının girdiği tam sayının basamak sayılarını toplayan program.
+
+## Harmonik-Sayi-For-Döngüsü
+- Kullanıcının girdiği N değerine göre harmonik sayı hesabı yapan program.
