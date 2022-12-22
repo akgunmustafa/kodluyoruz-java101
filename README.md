@@ -71,3 +71,6 @@
 
 ## Harmonik-Sayi-For-Döngüsü
 - Kullanıcının girdiği N değerine göre harmonik sayı hesabı yapan program.
+
+## Döngüler-İle-Şekiller
+- Kullanıcının girdiği değere göre azalıp artan geometrik şekiller yapan program.
