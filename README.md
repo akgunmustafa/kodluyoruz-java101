@@ -77,3 +77,6 @@
 
 ## ATM-Programı
 - Program içerisinde kayıtlı olan kullanıcı adı ve şifrelere göre giriş yapılabilen ve para yatırma,çekme,bakiye görüntüleme gibi basit işlemlerin yapılabildiği ATM programı.
+
+## Ebob-Ekok
+- Kullanıcının girdiği iki sayının EBOB-Ekok hesabını yapan program.
