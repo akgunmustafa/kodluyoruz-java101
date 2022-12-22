@@ -80,3 +80,6 @@
 
 ## Ebob-Ekok
 - Kullanıcının girdiği iki sayının EBOB-Ekok hesabını yapan program.
+
+## Sayi-Bulmaca
+- Kullanıcının girdiği "n" adet sayının en büyük ve en küçüğünü bulan program.
