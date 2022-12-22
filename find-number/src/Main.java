@@ -5,8 +5,8 @@ public class Main {
         Scanner scanner=new Scanner(System.in);
 
         int sayac,sayi;
-        int min=1;
-        int max=1;
+        int min=0;
+        int max=0;
 
         System.out.print("Kaç tane sayıyı kontrol etmek istersiniz? : ");
         sayac= scanner.nextInt();
@@ -14,11 +14,16 @@ public class Main {
         for (int i=1;i<=sayac;i++){
             System.out.print(i+". Sayınızı Giriniz : ");
             sayi= scanner.nextInt();
-            if (sayi>=max){
+            while (i==1){
                 max=sayi;
-            } else if (sayi<=min) {
                 min=sayi;
+                break;
             }
+            if (sayi>max){
+                max=sayi;}
+            else if (sayi<min){
+                min=sayi;}
+
         }
         System.out.print("En küçük sayınız : "+min);
         System.out.print(" ");
