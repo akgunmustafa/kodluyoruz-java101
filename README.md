@@ -83,3 +83,6 @@
 
 ## Sayi-Bulmaca
 - Kullanıcının girdiği "n" adet sayının en büyük ve en küçüğünü bulan program.
+
+## Mükemmel-Sayi
+- Kullanıcının girdiği sayının Mükemmel sayi olup olmadığının hesabını yapan program.
