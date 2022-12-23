@@ -86,3 +86,6 @@
 
 ## Mükemmel-Sayi
 - Kullanıcının girdiği sayının Mükemmel sayi olup olmadığının hesabını yapan program.
+
+## Asal-Sayi-Bulmaca
+- İç içe döngüler yardımıyla 1-den 100-e kadar olan asal sayıları bulan program.
