@@ -89,3 +89,6 @@
 
 ## Asal-Sayi-Bulmaca
 - İç içe döngüler yardımıyla 1-den 100-e kadar olan asal sayıları bulan program.
+
+## Fibonacci-Serisi
+- Java döngüler ile fibonacci serisi bulan program.
