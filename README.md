@@ -92,3 +92,6 @@
 
 ## Fibonacci-Serisi
 - Java döngüler ile fibonacci serisi bulan program.
+
+## Simple-Void/Return-Methods
+- Java metotlara giriş yapıldı.
