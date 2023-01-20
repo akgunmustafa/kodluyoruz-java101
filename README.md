@@ -95,3 +95,6 @@
 
 ## Simple-Void/Return-Methods
 - Java metotlara giriş yapıldı.
+
+## Palindrome Numbers 
+- Is your number palindrome number?
