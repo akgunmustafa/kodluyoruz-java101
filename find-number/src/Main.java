@@ -17,6 +17,7 @@ public class Main {
             while (i==1){
                 max=sayi;
                 min=sayi;
+
                 break;
             }
             if (sayi>max){
