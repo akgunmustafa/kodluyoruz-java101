@@ -98,3 +98,6 @@
 
 ## Palindrome Numbers 
 - Is your number palindrome number?
+
+## Calculator 
+- I created a new calculator with using java methods. 
