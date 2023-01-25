@@ -101,3 +101,6 @@
 
 ## Calculator 
 - I created a new calculator with using java methods. 
+
+## Recursive Methods 
+- Program that performs exponential calculations using the recursive method. 
